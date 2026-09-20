@@ -1,6 +1,6 @@
 # HZK Bitmap Fonts (HZK24S)
 
-Pixel-perfect TrueType (TTF) fonts converted from the classic HZK24S dot matrix font. 
+Pixel-perfect TrueType (TTF) fonts converted from the classic HZK24S/HZK24H dot matrix font. 
 
 包含两款风格：
 - **HZK-BitmapMincho.ttf** (点阵明朝体/宋体风格)
