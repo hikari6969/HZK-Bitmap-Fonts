@@ -7,8 +7,8 @@ Pixel-perfect TrueType (TTF) fonts converted from the classic HZK24S/HZK24H dot 
 - **HZK-BitmapGothic.ttf** (点阵黑体风格)
 
 ## ⚠️ Rendering Notice (渲染警告)
-This is a pure pixel font. For the best result, **please set the font size to 24px, or multiples of 24 (e.g., 48px, 96px).** Keep "Anti-aliasing" off if possible to prevent blurry edges. 
-（请在 Word / Photoshop 等软件中，将字号设置为 24 或 24 的整数倍，以获得完美的点阵像素效果。）
+This is a pure pixel font. For the best results, **please set the font size to 24px, or multiples of 24 (e.g., 48px, 96px) (or maybe you you can not to do what I say, and it'll still be fine;;).** Keep "Anti-aliasing" off if possible to prevent blurry edges. 
+（请在 Word / Photoshop 等软件中，将字号设置为 24 或 24 的整数倍（或者可以不用），以获得完美的点阵像素效果。）
 
 ## Character Set (字符集)
 - 6763 Chinese characters (GB2312 常用汉字)
