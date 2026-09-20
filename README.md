@@ -17,4 +17,4 @@ This is a pure pixel font. For the best result, **please set the font size to 24
 
 ## License
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-Derived from the classic HZK24S dot matrix font.
+Derived from the classic HZK24S/HZK24H dot matrix font.
